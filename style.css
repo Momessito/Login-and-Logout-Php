@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=REM&display=swap');
+*{
+    font-family: 'REM', sans-serif;
+}
+
+body{
+    background-color: rgb(8, 3, 37);
+    color: white;
+}
+input{
+    color: white;
+    background-color: rgb(8, 3, 37);
+    border: 2px solid white;
+    padding:10px 20px;
+    border-radius: 5px;
+}
